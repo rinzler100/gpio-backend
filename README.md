@@ -4,6 +4,8 @@ Express server script for a RESTful API to access the Raspberry Pi's GPIO pins.
 
 Turn pins on and off by sending GET requests to the Raspberry Pi.
 
+Basic frontend can be [found here](https://github.com/rinzler100/gpio-frontend).
+
 ## Installation
 First, make sure you have node.js and npm installed.
 
